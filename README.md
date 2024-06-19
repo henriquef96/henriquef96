@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=180&text=Olá,%20meu%20nome%20é%20{Henrique%20Farias!}%20%&fontSize=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=100&text=Olá,%20meu%20nome%20é%20{Henrique%20Farias!}%20%&fontSize=30"/>
 
 ## Sobre mim
 
@@ -43,4 +43,4 @@
   </tr>
 </table>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
