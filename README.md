@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=100&text=%20%20%20%20%20%"/>
-
 ## Sobre mim
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
