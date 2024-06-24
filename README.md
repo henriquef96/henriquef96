@@ -4,7 +4,7 @@
 
 - 👨‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando {Análise e Desenvolvimento de Sistemas}.
-- 💼 Trabalhando como {Técnico de TI} na {Algar Tech}.
+- 💼 Trabalhando como {Analista de TI} na {Algar Tech}.
 - 🌎 Em constante aprendizado sempre me mantendo atualizado.
 
 ## 🚀 Minhas Skills
