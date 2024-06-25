@@ -1,14 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=BF7ED0&section=header">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hello,%20World!&fontSize=30&fontAlignY=50&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=100&text=Olá,%20meu%20nome%20é%20Henrique!%20sou%20{%20Desenvolvedor%20Web%20}&fontSize=22&fontAlignY=25"/>
 
 ## Sobre mim
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="200px" width="200px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 👨‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌎 Em constante aprendizado sempre me mantendo atualizado.
+- 👨‍💻 Explorando novas tecnologias, desenvolvendo soluções de software.
+- 🌎 Em constante aprendizado, sempre me mantendo atualizado.
 - 🎓 Estudando {Análise e Desenvolvimento de Sistemas}.
-- 💼 Trabalhando como {Analista de TI}.
+- 💼 Trabalhando como {Técnico de TI}.
 
 ## 🚀 Minhas Skills
 
@@ -43,4 +42,4 @@
   </tr>
 </table>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=BF7ED0&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
