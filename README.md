@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Olá!%20me%20chamo%20Henrique,%20sou%20{%20Dev.%20Front-End%20}&fontSize=25&fontAlignY=30">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Olá!%20me%20chamo%20Henrique,%20sou%20{%20Dev.%20Front-End%20}&fontSize=25&fontAlignY=50&section=header">
 
 ## Sobre mim
 
