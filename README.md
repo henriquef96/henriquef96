@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=100&text=Olá!%20meu%20nome%20é%20{Henrique%20Farias}&fontSize=25&fontAlignY=25"/>
 
-## Minhas Skills
+## Hard Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
