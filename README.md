@@ -1,13 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=100&text=Olá,%20meu%20nome%20é%20Henrique!%20sou%20{%20Desenvolvedor%20Web%20}&fontSize=25&fontAlignY=25"/>
-
-## Sobre mim
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-
-- 🌎 Explorando novas tecnologias, desenvolvendo soluções de software.
-- 👨‍💻 Em constante aprendizado, sempre me mantendo atualizado.
-- 🎓 Estudando {Análise e Desenvolvimento de Sistemas}.
-- 💼 Trabalhando como {Técnico de TI}.
+<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=100&text=Olá!%20meu%20nome%20é%20{%20Henrique%20Farias%20}&fontSize=25&fontAlignY=25"/>
 
 ## Minhas Skills
 
@@ -20,6 +11,15 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind"/></code>
+
+## Sobre mim
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
+- 🌎 Explorando novas tecnologias, desenvolvendo soluções de software.
+- 👨‍💻 Em constante aprendizado, sempre me mantendo atualizado.
+- 🎓 Estudando {Análise e Desenvolvimento de Sistemas}.
+- 💼 Trabalhando como {Técnico de TI}.
 
 <br/>
 
