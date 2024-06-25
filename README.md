@@ -1,6 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Olá!%20me%20chamo%20Henrique,%20sou%20{%20Dev.%20Front-End%20}&fontSize=25&fontAlignY=30">
+
 ## Sobre mim
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="200px" width="200px" align="right">
 
 - 👨‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🌎 Em constante aprendizado sempre me mantendo atualizado.
@@ -41,4 +43,4 @@
   </tr>
 </table>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontSize=25&fontAlignY=30&section=footer"/>
