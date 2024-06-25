@@ -17,9 +17,7 @@
 - 👨‍💻 Em constante aprendizado, sempre me mantendo atualizado.
 - 🎓 Estudando {Análise e Desenvolvimento de Sistemas}.
 - 💼 Trabalhando como {Técnico de TI}.
-
-<br/>
-
+  
 ## ⚙️ GitHub Analytics
 
 <table>
