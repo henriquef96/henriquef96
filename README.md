@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=BF7ED0&section=header">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hello,%20World!&fontSize=30&fontAlignY=50&section=header">
 
 ## Sobre mim
@@ -42,4 +43,4 @@
   </tr>
 </table>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontSize=25&fontAlignY=30&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=BF7ED0&section=footer"/>
