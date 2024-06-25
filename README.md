@@ -4,8 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 👨‍💻 Explorando novas tecnologias, desenvolvendo soluções de software.
-- 🌎 Em constante aprendizado, sempre me mantendo atualizado.
+- 🌎 Explorando novas tecnologias, desenvolvendo soluções de software.
+- 👨‍💻 Em constante aprendizado, sempre me mantendo atualizado.
 - 🎓 Estudando {Análise e Desenvolvimento de Sistemas}.
 - 💼 Trabalhando como {Técnico de TI}.
 
