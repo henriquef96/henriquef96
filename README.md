@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=553A7D&text={%20Seja%20bem%20vindo!%20}&fontColor=ffffff&fontSize=25&fontAlignY=25&fontAlign=16&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=85&color=ffffff&fontSize=25&fontAlignY=25&fontAlign=16&animation=fadeIn&section=header"/>
 
 ## Minhas Skills
 
@@ -43,4 +43,4 @@
   </tr>
 </table>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=553A7D&fontColor=ffffff&fontSize=25&fontAlignY=25&fontAlign=16&animation=fadeIn&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=85&color=ffffff&fontSize=25&fontAlignY=25&fontAlign=16&animation=fadeIn&section=footer"/>
