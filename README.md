@@ -39,4 +39,4 @@
   </tr>
 </table>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
