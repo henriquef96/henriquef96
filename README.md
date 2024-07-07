@@ -16,7 +16,7 @@
 - 🌎 Explorando novas tecnologias, desenvolvendo soluções de software.
 - 👨‍💻 Em constante aprendizado, sempre me mantendo atualizado.
 - 🎓 Estudando {Análise e Desenvolvimento de Sistemas}.
-- 💼 Trabalhando como {Técnico de TI}.
+- 💼 Trabalhando como {Analista de TI}.
   
 ## ⚙️ GitHub Analytics
 
