@@ -1,7 +1,7 @@
 ## Sobre mim
 
 - 🌎 Desenvolvedor Web Full Stack
-- 👨‍💻 Em constante Aprendizado
+- 👨‍💻 Em constante aprendizado
 - 💼 Analista de Sistemas
 - 🎓 Formando em ADS
 
