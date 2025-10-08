@@ -3,7 +3,7 @@
 - 🌎 Desenvolvedor Web Full Stack
 - 👨‍💻 Em constante aprendizado
 - 💼 Analista de Sistemas
-- 🎓 Formando em ADS
+- 🎓 Formado em ADS
 
 ## Stack
 
