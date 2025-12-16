@@ -1,36 +1,34 @@
-## Sobre mim
+# Olá, eu sou o Henrique! 👋
 
-- 🌎 Desenvolvedor Web Full Stack
-- 👨‍💻 Em constante aprendizado
-- 💼 Analista de Sistemas
-- 🎓 Formado em ADS
+## 🌎 Sobre mim
 
-## Stack
+- 💻 **Desenvolvedor Web Full Stack** focado em soluções modernas e escaláveis.
+- 👨‍💻 Em constante aprendizado sobre novas tecnologias e arquiteturas.
+- 💼 Atuando como **Analista de Sistemas**.
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
-  
+---
+
+## 🚀 Minha Stack
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwind,nodejs,php,mysql,postgres,mssql,firebase,git" />
+</div>
+
+---
+
 ## ⚙️ GitHub Analytics
 
-<table width="100">
+<table width="100%">
   <tr>
-    <td>
-      <img
-        align="center" width="100"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquef96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
+    <td width="100%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquef96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Henrique's GitHub Stats" />
     </td>
   </tr>
 </table>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+<br />
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+</div>
