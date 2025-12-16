@@ -21,7 +21,7 @@
   
 ## ⚙️ GitHub Analytics
 
-<table c>
+<table width="100">
   <tr>
     <td>
       <img
