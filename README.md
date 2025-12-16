@@ -4,15 +4,15 @@
 
 - 💻 **Desenvolvedor Web Full Stack** focado em soluções modernas e escaláveis.
 - 👨‍💻 Em constante aprendizado sobre novas tecnologias e arquiteturas.
-- 💼 Atuando como **Analista de Sistemas**.
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**.
+- 💼 Atuando como **Analista de Sistemas Pleno**.
 
 ---
 
 ## 🚀 Minha Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwind,nodejs,php,mysql,postgres,mssql,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwind,git,nodejs,firebase,php,postgres,mysql" />
 </div>
 
 ---
