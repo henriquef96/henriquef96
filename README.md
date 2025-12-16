@@ -21,11 +21,11 @@
   
 ## ⚙️ GitHub Analytics
 
-<table width="100">
+<table c>
   <tr>
     <td>
       <img
-        align="left"
+        align="center" width="100"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquef96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
