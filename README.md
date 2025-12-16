@@ -1,6 +1,3 @@
-# Olá, eu sou o Henrique! 👋
-
-## 🌎 Sobre mim
 
 - 💻 **Desenvolvedor Web Full Stack** focado em soluções modernas e escaláveis.
 - 👨‍💻 Em constante aprendizado sobre novas tecnologias e arquiteturas.
