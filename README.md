@@ -4,7 +4,7 @@
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**.
 - 💼 Atuando como **Analista de Sistemas Pleno**.
 
----
+## 
 
 ## 🚀 Minha Stack
 
@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwind,git,nodejs,firebase,php,postgres,mysql" />
 </div>
 
----
+##
 
 ## ⚙️ GitHub Analytics
 
