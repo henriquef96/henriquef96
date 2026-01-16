@@ -2,7 +2,7 @@
 - 💻 **Desenvolvedor Web Full Stack** focado em soluções modernas e escaláveis.
 - 👨‍💻 Em constante aprendizado sobre novas arquiteturas e tecnologias.
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 💼 Atuando como **Desenvolvedor de Sistemas Pleno**.
+- 💼 Atuando como **Desenvolvedor de Sistemas Web**.
 
 ## 🚀 Minha Stack
 
