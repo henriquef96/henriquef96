@@ -1,21 +1,25 @@
+## 👋 Olá! Eu sou o Henrique
 
-- 💻 **Desenvolvedor Web Full Stack** focado em soluções modernas e escaláveis.
-- 👨‍💻 Em constante aprendizado sobre novas arquiteturas e tecnologias.
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 💼 Atuando como **Desenvolvedor de Sistemas Web**.
+- 💻 **Desenvolvedor Web Full Stack**, focado em soluções modernas, escaláveis e bem estruturadas  
+- 👨‍💻 Em constante evolução em **arquitetura de software, boas práticas e performance**  
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas (ADS)**  
+- 💼 Atuando profissionalmente como **Desenvolvedor de Sistemas Web**
 
-## 🚀 Minha Stack
+---
+
+## 🚀 Stack Tecnológica
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwind,git,nodejs,firebase,php,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwind,nodejs,php,firebase,postgres,mysql,git" />
 </div>
+
+---
 
 ## ⚙️ GitHub Analytics
 
-<table width="100%">
-  <tr>
-    <td width="100%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquef96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Henrique's GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henriquef96&theme=github_dark" 
+  width="50%" 
+/>
+</div>
